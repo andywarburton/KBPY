@@ -1,0 +1,10 @@
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-F_Cu.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-B_Cu.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-F_Paste.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-B_Paste.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-F_SilkS.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-B_SilkS.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-F_Mask.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-B_Mask.gbr" created.
+Plot file "/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-Edge_Cuts.gbr" created.
+Create Gerber job file “/Users/andywarburton/Documents/KBPY/KBPY/KB-PY-GERBERS/KBPY-job.gbrjob”

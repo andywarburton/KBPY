@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Xiao)(type KiCad)(uri "/Users/andywarburton/Downloads/Seeeduino XIAO KICAD")(options "")(descr ""))
+  (lib (name Hotswap)(type KiCad)(uri /Users/andywarburton/Downloads/keyswitches.pretty-master)(options "")(descr ""))
+)
