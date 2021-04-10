@@ -1,5 +1,5 @@
 # KB-PY
-a tiny mx mechanical key switch tester powered by Adafruit QTPY or Seeeduino XIAO and CircuitPython. Designed in KiCad.
+a tiny "hot swap" mx mechanical key switch tester powered by Adafruit QTPY or Seeeduino XIAO and CircuitPython. Designed in KiCad.
 
 ## Whats in the repo?
 
